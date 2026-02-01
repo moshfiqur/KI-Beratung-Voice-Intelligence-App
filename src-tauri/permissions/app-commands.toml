@@ -1,0 +1,9 @@
+[[permission]]
+identifier = "allow-app-commands"
+description = "Allows the custom application commands"
+commands.allow = [
+    "start_recording",
+    "stop_recording",
+    "update_shortcut",
+    "list_audio_devices"
+]
