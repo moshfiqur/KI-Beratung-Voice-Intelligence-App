@@ -88,3 +88,7 @@ Build artifacts (.exe, .dmg, .AppImage) will be generated in `src-tauri/target/r
 ## Privacy Note
 
 Audio recordings and transcripts are sent to OpenAI for processing. API keys and session history are stored locally and never shared with third parties by the application itself.
+
+## License
+
+MIT — see `LICENSE`.
